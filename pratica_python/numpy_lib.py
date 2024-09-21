@@ -1,3 +1,5 @@
+# O Numpy é uma lib para trabalhar com matrizes, mais especialmente matrizes unidimensionais.
+
 #%%
 import numpy as np
 
