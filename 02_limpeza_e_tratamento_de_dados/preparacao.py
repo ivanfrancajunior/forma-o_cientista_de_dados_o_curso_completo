@@ -7,7 +7,7 @@ dataset = pd.read_csv('Churn.csv', sep=';')
 
 
 # %%
-''' #1: tabalas com dado ssem significado(tabelas em que o titulo das colunas não possuem um significado) '''
+''' #1: tabalas com dado sem significado(tabelas em que o titulo das colunas não possuem um significado) '''
 dataset.head(10)
 # %%
 dataset.shape
